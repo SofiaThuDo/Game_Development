@@ -1,8 +1,4 @@
-#Docstring
-#Introduction and Control errors
-"""
-DocString:
-    A) INTRODUCTION           
+A) INTRODUCTION           
 The purpose of the game is to find the True King of the Ocean 
 to save Atlantis from doom.
 This planet is an amazing place to live … but it needs your help. 
@@ -15,8 +11,3 @@ ROUND 1: OCEAN CREATURES
 ROUND 2: OCEAN FACTS
 ROUND 3: OCEAN PROBLEMS
 ROUND 4: RESCUE THE QUEEN (Lucky stage)
-
-    
-    B) Known bug and/or errors: None
-    
-"""
